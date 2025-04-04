@@ -1,6 +1,6 @@
-# SubdomainFinder by R4z0r
+# SubdomainRecon by R4z0r
 
-SubdomainFinder es una herramienta automatizada diseñada para la recopilación y verificación de subdominios utilizando múltiples herramientas de reconocimiento. Ideal para evaluaciones de seguridad en aplicaciones web y análisis de estructuras de red.
+SubdomainRecon es una herramienta automatizada diseñada para la recopilación y verificación de subdominios utilizando múltiples herramientas de reconocimiento. Ideal para evaluaciones de seguridad en aplicaciones web y análisis de estructuras de red.
 
 ---
 
